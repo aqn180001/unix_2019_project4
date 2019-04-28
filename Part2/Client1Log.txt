@@ -1,0 +1,21 @@
+ ** Client 45370 at Sun Apr 28 15:14:36 2019 sent date 
+ ** Client 45370 at Sun Apr 28 15:14:36 2019 received:
+Sun Apr 28 15:14:36 CDT 2019
+ 
+ ** Client 45370 at Sun Apr 28 15:14:36 2019 sent ls /etc | wc 
+ ** Client 45370 at Sun Apr 28 15:14:36 2019 received:
+     124     124    1496
+ 
+ ** Client 45370 at Sun Apr 28 15:14:36 2019 sent ls /etc | head  
+ ** Client 45370 at Sun Apr 28 15:14:36 2019 received:
+SelfControlPFToken
+afpovertcp.cfg
+afpovertcp.cfg~orig
+aliases
+aliases.db
+apache2
+asl
+asl.conf
+auto_home
+auto_master
+ 

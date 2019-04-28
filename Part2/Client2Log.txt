@@ -1,0 +1,20 @@
+ ** Client 45435 at Sun Apr 28 15:14:52 2019 sent date 
+ ** Client 45435 at Sun Apr 28 15:14:52 2019 received:
+Sun Apr 28 15:14:52 CDT 2019
+ 
+ ** Client 45435 at Sun Apr 28 15:14:52 2019 sent ls -l  
+ ** Client 45435 at Sun Apr 28 15:14:52 2019 received:
+total 120
+-rw-r--r--@ 1 anvilnguyen  staff    528 Apr 28 15:14 Client1Log.txt
+-rw-r--r--  1 anvilnguyen  staff      0 Apr 28 15:14 Client2Log.txt
+-rw-r--r--@ 1 anvilnguyen  staff     39 Apr 28 15:08 Commands1.txt
+-rw-r--r--@ 1 anvilnguyen  staff     27 Apr 28 15:09 Commands2.txt
+-rwxr-xr-x@ 1 anvilnguyen  staff  17152 Apr 28 15:13 a4Client2
+-rw-r--r--@ 1 anvilnguyen  staff   2835 Apr 28 15:12 a4Client2.cpp
+-rwxr-xr-x@ 1 anvilnguyen  staff  17360 Apr 28 15:04 a4Server2
+-rw-r--r--@ 1 anvilnguyen  staff   2694 Apr 28 15:03 a4Server2.cpp
+ 
+ ** Client 45435 at Sun Apr 28 15:14:52 2019 sent ls  | wc  
+ ** Client 45435 at Sun Apr 28 15:14:52 2019 received:
+       8       8     106
+ 
